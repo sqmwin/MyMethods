@@ -4,7 +4,7 @@
     <root id="archive" name="MyMethods.jar">
       <element id="module-output" name="MyMethods" />
       <element id="directory" name="META-INF">
-        <element id="file-copy" path="$PROJECT_DIR$/META-INF/MANIFEST.MF" />
+        <element id="file-copy" path="$PROJECT_DIR$/out/artifacts/MyMethods_jar/META-INF/MANIFEST.MF" />
       </element>
     </root>
   </artifact>
